@@ -1,7 +1,6 @@
 +++
 authors = []
 date = ""
-draft = true
 excerpt = "A little excerpt"
 hero = "/images/alain-pham-wmdkykpmydi-unsplash.jpg"
 timeToRead = 0
